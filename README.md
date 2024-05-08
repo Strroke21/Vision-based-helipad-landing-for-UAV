@@ -12,3 +12,6 @@
 * Ubuntu 20.04 or more/ Linux35 
 * picam v2
 
+# Helipad model
+``` https://drive.google.com/file/d/1tLccPsqkkyh-O1XG0q1R0fecIvaN30Nu/view?usp=drive_link ```
+
