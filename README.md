@@ -7,3 +7,8 @@
 #### ```pip3 install opencv-python```
 #### ```pip3 install numpy```
 
+# Hardware Required
+Rpi or Jetson with 8GB Ram
+Ubuntu 20.04 or more/ Linux35 
+picam v2
+
